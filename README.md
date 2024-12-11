@@ -1,4 +1,4 @@
-# Semantic-Search-API <a href="https://colab.research.google.com/github/lambda-capture/Semantic-Search-API/API-notebook.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+# Semantic-Search-API <a href="https://colab.research.google.com/github/lambda-capture/Semantic-Search-API/blob/main/API-notebook.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 🔎 RESTful API for Text-retrieval &amp; Semantic Search of Macro Data<br>
 <a href="https://lambda-capture.com/waitlist" target="_blank"><strong>Join Waitlist (24h) for free API Key</strong></a> | 
 <a href="https://lambda-capture.com" target="_blank">Visit our Website</a> | 
